@@ -1,1 +1,2 @@
 # Blinkit_Sales_BI_Project
+An interactive dashboard analyzing $1.2 M in sales data, outlet performance, and product categories, with dynamic filters for outlet location, size, and item type. The dashboard visualized key KPIs such as average sales, ratings, outlet establishment trends, and fat content distribution, ultimately enhancing decision-making by highlighting top-performing items and outlet tiers.
